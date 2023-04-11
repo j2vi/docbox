@@ -6,7 +6,7 @@ Also here is external sources:
 
 - [Miro](https://miro.com/app/board/uXjVP_iNkPE=/)
 
-This knowledge base (KB) contains the information that the author has had time to collect, as well as to contribute. <br>
+This knowledge base (KB) contains the information that the author has had time to collect, as well as to contribute. \
 All personal notes of the author of this KB are solely subjective in nature and opinion.
 
 Enjoy!
@@ -15,6 +15,7 @@ Enjoy!
 
 - The [Common Sourcers](./links/common_sources.md)
 - The [Guides](./links/guides.md)
+- The [Web Development](./links/web_development.md)
 
 ## Manuals
 
