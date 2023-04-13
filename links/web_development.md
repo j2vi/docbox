@@ -6,15 +6,19 @@ Common [roadmap](https://roadmap.sh/frontend) for every developer.
 
 Spetification:
 
-- [W3C](https://www.w3.org/)
+- [W3C](https://www.w3.org/) - most popular
 - [WhatWG](https://whatwg.org/)
 
 The Support helpers where you can see interactive code review besides of browser console
 
-- [CanIUse](https://caniuse.com/)
-- [CanIInclude](https://caninclude.glitch.me/)
+- [CanIUse](https://caniuse.com/) - tables for support of front-end web technologies on desktop and mobile web browsers
+- [CanIInclude](https://caninclude.glitch.me/) - quick tag nesting help
 
 ### Validators
 
-- [HTML](https://validator.w3.org/)
-- [CSS](https://jigsaw.w3.org/css-validator/)
+- [HTML](https://validator.w3.org/) - page structure
+- [CSS](https://jigsaw.w3.org/css-validator/) - page styling
+
+#### Useful tools
+
+- [Measure page quality](https://web.dev/measure/) - a tool for measuring the performance and Core Web Vitals of a page with lab and field data
