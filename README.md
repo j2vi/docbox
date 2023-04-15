@@ -22,3 +22,5 @@ Enjoy!
 - How to [fix NTFS](./manuals/how-to-fix-ntfs-in-linux.md) in Linux?
 
 - How to [install Wordpress](./manuals/how-to-install-wordpress-on-linux.md) on Linux?
+
+- How to use [ffmpeg?](./manuals/how-to-use-ffmpeg.md)
