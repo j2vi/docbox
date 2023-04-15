@@ -19,6 +19,12 @@ The Support helpers where you can see interactive code review besides of browser
 - [HTML](https://validator.w3.org/) - page structure
 - [CSS](https://jigsaw.w3.org/css-validator/) - page styling
 
-#### Useful tools
+### Additional/Other
+
+#### Tools
 
 - [Measure page quality](https://web.dev/measure/) - a tool for measuring the performance and Core Web Vitals of a page with lab and field data
+
+#### Info
+
+- [State of JavaScript](https://2022.stateofjs.com/en-US/) - the annual developer survey of the JavaScript ecosystem
