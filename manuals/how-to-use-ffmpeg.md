@@ -70,7 +70,7 @@ ffmpeg -i input.mp4 -i subtitle.srt -c:v copy -c:a copy -c:s mov_text output.mp4
 You can use FFmpeg to trim a video by specifying the start and end times. The `-ss` option is used to specify the start time and the `-t` option is used to specify the duration. Here is an example command:
 
 ```bash
-ffmpeg -i input.mp4 -ss 00:00:10 -t 00:00:20 -c copy output.mp4
+ffmpeg -i input.mp4 -ss 00:00:10 -t 00:00:20 -c:v copy -c:a copy output.mp4
 
 ```
 
