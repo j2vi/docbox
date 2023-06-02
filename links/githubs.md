@@ -2,6 +2,10 @@
 
 The list on useful GitHub sources
 
+## 97 Things Every Programmer Should Know
+
+Must HAVE for every developer: [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know)
+
 ## TOP-21
 
 High-Value Resources (from [dev.to](https://dev.to/jon_snow789/20-github-repositories-every-developer-should-bookmarkhigh-value-resources-4jm6))
