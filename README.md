@@ -29,3 +29,5 @@ Enjoy!
 - How to [install Wordpress](./manuals/how-to-install-wordpress-on-linux.md) on Linux?
 
 - How to use [ffmpeg?](./manuals/how-to-use-ffmpeg.md)
+
+- How to [fix browser Brave working](./manuals/how-to-fix-browser-brave-working.md)?
