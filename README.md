@@ -21,6 +21,7 @@ Enjoy!
 - The [Guides](./links/guides.md)
 - The [Web Development](./links/web_development.md)
 - The [GitHub's](./links/githubs.md)
+- The [Universal Tools](./links/universal_tools.md)
 
 ## Manuals
 
