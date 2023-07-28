@@ -22,6 +22,7 @@ Enjoy!
 - The [Web Development](./links/web_development.md)
 - The [GitHub's](./links/githubs.md)
 - The [Universal Tools](./links/universal_tools.md)
+- The [AI Assistent Tools](./links/ai_assistant_tools.md)
 
 ## Manuals
 

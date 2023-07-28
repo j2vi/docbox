@@ -19,12 +19,6 @@ The Support helpers where you can see interactive code review besides of browser
 - [HTML](https://validator.w3.org/) - page structure
 - [CSS](https://jigsaw.w3.org/css-validator/) - page styling
 
-### Additional/Other
-
-#### AI Assistent Tools
-
-- [TinyWow](https://tinywow.com/) - free AI writing, PDF, image and other online tools
-
 #### Other tools
 
 - [Measure page quality](https://web.dev/measure/) - a tool for measuring the performance and Core Web Vitals of a page with lab and field data
