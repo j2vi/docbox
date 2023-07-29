@@ -17,7 +17,7 @@ The tools who can use everyone regardless of what their profession is
 
 ## For Publishing
 
-- [Telescope.ac](https://telescope.ac/)
+- [Telegra.ph](https://telegra.ph/)
 
 ## Cloud
 
