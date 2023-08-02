@@ -4,4 +4,4 @@ The questions about internet and how it's works. What is the DNS, HTTP? What is 
 
 ## Common Web Questions
 
-- What is the Internet?
+- What is [the Internet](./common_web_questions/what_is_the_internet.md)?
