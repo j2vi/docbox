@@ -15,14 +15,14 @@ Enjoy!
 
 - The [Roadmap of Questions](./questions/questions.md)
 
-## Links
+## Sources (the links)
 
-- The [Common Sourcers](./links/common_sources.md)
-- The [Guides](./links/guides.md)
-- The [Web Development](./links/web_development.md)
-- The [GitHub's](./links/githubs.md)
-- The [Universal Tools](./links/universal_tools.md)
-- The [AI Assistent Tools](./links/ai_assistant_tools.md)
+- The [Common Sourcers](./sources_links/common_sources.md)
+- The [Guides](./sources_links/guides.md)
+- The [Web Development](./sources_links/web_development.md)
+- The [GitHub's](./sources_links/githubs.md)
+- The [Universal Tools](./sources_links/universal_tools.md)
+- The [AI Assistent Tools](./sources_links/ai_assistant_tools.md)
 
 ## Manuals
 
