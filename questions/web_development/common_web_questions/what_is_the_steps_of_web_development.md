@@ -61,14 +61,14 @@ What is the steps in web development? How many you know of them?
 - How to test website on PC, mobile phones, tablets and other devices?
 - How to analyze your website?
 
-## What is the website promotion and how to do it?
+### What is the website promotion and how to do it?
 
 - What is the context advertising for website and how to use it?
 - What is the Search Engine Optimization (SEO) and how to do it?
   - What is the website conversion and how to improve it?
 - How to promote the website in social networks?
 
-## What is the website scaling and how to do it?
+### What is the website scaling and how to do it?
 
 - How to make the additional sections of the website?
 - How to create an individual modules and scripts?
