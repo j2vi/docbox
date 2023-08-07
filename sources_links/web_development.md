@@ -2,7 +2,9 @@
 
 Common [roadmap](https://roadmap.sh/frontend) for every developer.
 
-## Web-Site Quality Rewiew
+## Tools list
+
+### Web-Site Quality Rewiew
 
 Spetification:
 
@@ -19,10 +21,16 @@ The Support helpers where you can see interactive code review besides of browser
 - [HTML](https://validator.w3.org/) - page structure
 - [CSS](https://jigsaw.w3.org/css-validator/) - page styling
 
-#### Other tools
+### JavaScript test
 
-- [Measure page quality](https://web.dev/measure/) - a tool for measuring the performance and Core Web Vitals of a page with lab and field data
+- [Jest](https://jestjs.io/) - delightful JavaScript Testing Framework
 
 #### Info
 
 - [State of JavaScript](https://2022.stateofjs.com/en-US/) - the annual developer survey of the JavaScript ecosystem
+
+### Other tools
+
+- [Measure page quality](https://web.dev/measure/) - a tool for measuring the performance and Core Web Vitals of a page with lab and field data
+- [NinjaMock](https://ninjamock.com/) - wireframe and mockup tool
+- [[Only for RU] ТЗ-Онлайн](https://tz-online.site/) - составление онлайн ТЗ
