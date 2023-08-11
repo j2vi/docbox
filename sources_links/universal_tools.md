@@ -24,3 +24,11 @@ The tools who can use everyone regardless of what their profession is
 - [PCloud](https://www.pcloud.com/)
 - [Mega.io](https://mega.io/)
 - [Dropbox](https://www.dropbox.com/)
+
+## Generators
+
+- [gitignore](https://www.toptal.com/developers/gitignore) - generate useful .gitignore files
+
+## LaTeX
+
+- [https://latex.codecogs.com/](https://latex.codecogs.com/eqneditor/editor.php) - online LaTeX Equation Editor
