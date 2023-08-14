@@ -33,3 +33,5 @@ Enjoy!
 - How to use [ffmpeg?](./manuals/how-to-use-ffmpeg.md)
 
 - How to [fix browser Brave working](./manuals/how-to-fix-browser-brave-working.md)?
+
+- How to add [Perplexity AI](./manuals/how-to-add-perplexity-search-engine.md) search engine?
