@@ -24,6 +24,7 @@ The tools who can use everyone regardless of what their profession is
 - [PCloud](https://www.pcloud.com/)
 - [Mega.io](https://mega.io/)
 - [Dropbox](https://www.dropbox.com/)
+- [IceDrive](https://icedrive.net/)
 
 ## Generators
 
