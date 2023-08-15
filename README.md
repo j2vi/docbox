@@ -27,11 +27,7 @@ Enjoy!
 ## Manuals
 
 - How to [fix NTFS](./manuals/how-to-fix-ntfs-in-linux.md) in Linux?
-
 - How to [install Wordpress](./manuals/how-to-install-wordpress-on-linux.md) on Linux?
-
 - How to use [ffmpeg?](./manuals/how-to-use-ffmpeg.md)
-
 - How to [fix browser Brave working](./manuals/how-to-fix-browser-brave-working.md)?
-
 - How to add [Perplexity AI](./manuals/how-to-add-perplexity-search-engine.md) search engine?
