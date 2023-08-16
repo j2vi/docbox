@@ -10,6 +10,10 @@
 - [Perplexity AI](https://perplexity.ai) - an AI-chat-based conversational search engine
 - [You.com](https://you.com) - an light-weight AI search engine
 
+### Midjourney alternatives
+
+- [Playground AI](https://playgroundai.com) - a simply AI Image Generation
+
 ## Document processing
 
 - [TinyWow](https://tinywow.com/) - free AI writing, PDF, image and other online tools
