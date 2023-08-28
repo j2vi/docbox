@@ -23,6 +23,7 @@ Enjoy!
 - The [GitHub's](./sources_links/githubs.md)
 - The [Universal Tools](./sources_links/universal_tools.md)
 - The [AI Assistent Tools](./sources_links/ai_assistant_tools.md)
+- The [Study Sources](./sources_links/study_sources.md)
 
 ## Manuals
 
